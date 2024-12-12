@@ -1,0 +1,8 @@
+default_checkpoints
+checkpoint_iter_370000.pth
+
+weights
+checkpoint_iter_370000.pth
+mobilenet_sgd_68.848.pth.tar
+
+prepared_train_annotation.pkl
